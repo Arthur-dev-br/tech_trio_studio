@@ -1,0 +1,22 @@
+.topo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #c1c1c1;
+    height: 230px;
+    
+}
+
+.topo h1 {
+    padding-left: 30px;
+}
+
+.topo ul{
+    display: flex;
+    gap: 60px;
+    font-size: 30px;
+}
+
+.topo ul li {
+     
+}
